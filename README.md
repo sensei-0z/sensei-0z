@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sensei-0z/sensei-0z/blob/gh-snk-contribs-graph-output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sensei-0z/sensei-0z/blob/gh-snk-contribs-graph-output/github-snake.svg" />
+  <img alt="Github Snake Contributions Graph Animation" src="https://github.com/sensei-0z/sensei-0z/blob/gh-snk-contribs-graph-output/github-snake.svg" />
+</picture>
+
 - 👋 Hi, I’m Tanzid Uddin (@sensei-0z)
 - 👀 I’m interested in you.
 - 🌱 I’m currently learning how to deal with my brain.
