@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/764f8cd2-b7dc-43d4-8fa5-30954a4feefb.svg?style=social)](https://wakatime.com/@764f8cd2-b7dc-43d4-8fa5-30954a4feefb)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sensei-0z/sensei-0z/blob/gh-snk-contribs-graph-output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/sensei-0z/sensei-0z/blob/gh-snk-contribs-graph-output/github-snake.svg" />
