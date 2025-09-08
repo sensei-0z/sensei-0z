@@ -4,7 +4,7 @@
 <img alt="Github Snake Contributions Graph Animation" src="https://github.com/sensei-0z/sensei-0z/blob/gh-snk-contribs-graph-output/github-snake.svg" />
 </picture>
 
-# 💫 About Me:
+# 👤 About Me:
 A curious and passionate Software Engineering student at UTM, Malaysia, exploring various fields including robotics, game development, web development, and currently more interested and diving into cybersecurity. Actively improving Bash scripting skills, fine-tuning NixOS configurations, and pursuing the Oracle Cloud Infrastructure (OCI) certification. 
 Planning to update this GitHub more frequently with new projects and progress.
 
