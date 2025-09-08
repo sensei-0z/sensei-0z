@@ -9,8 +9,7 @@ A curious and passionate Software Engineering student at UTM, Malaysia, explorin
 Planning to update this GitHub more frequently with new projects and progress.
 
 # 🚧 Next Project Plan:
-- Home lab
-Like a mini data center or sandbox for:
+- **Home lab**, like a mini data center or sandbox for:
 
   - Practicing cybersecurity attacks & defense 🛡️
 
